@@ -12,7 +12,7 @@ If you wish to assess code using a Moodle quiz, this can be done using the [Code
 
 ### Numerics
 
-However, we can assess the _results_ of statistical annalysis (such as in \(R\)). 
+However, we can assess the _results_ of statistical analysis (such as in \(R\)). 
 
 Most teachers using STACK make use of randomisation, but this relies on Maxima's ability to calculate the correct answer. This section is intended to aid the translation of questions relying on commands in the statistical computing software \(R\) into STACK questions using Maxima. You do not need an in depth knowledge of statistics to use this.  
 
